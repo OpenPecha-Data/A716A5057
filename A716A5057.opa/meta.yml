@@ -1,0 +1,25 @@
+id: A716A5057
+title: Dedication (Sangye tenpa...)
+type: translation
+pechas:
+- IADFAAD95
+- I87F9C45B
+- I93498370
+- IA1616936
+source_metadata:
+  languages:
+  - en
+  - de
+  - fr
+  - bo
+  datatype: PlainText
+  created_at: 2023-01-04 12:59:58.695312
+  last_modified_at: 2023-01-04 12:59:58.695334
+  collections:
+  - Longchen Rabjam Series
+  - Works of Tibetan Masters
+alignment_to_base:
+  IADFAAD95/9108: 867F
+  I87F9C45B/8086: 867F
+  I93498370/5990: 867F
+  IA1616936/24F0: 867F
